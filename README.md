@@ -30,13 +30,24 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/school-management-system.git
    cd school-management-system
-
+   
+**Install dependencies:**
 composer install
 npm install
+
+**Create a copy of the .env file:**
 cp .env.example .env
+
+**Generate an application key:**
 php artisan key:generate
+
+**Run the migrations:**
 php artisan migrate
+
+**Serve the application:**
 php artisan serve
+
+**Build the frontend assets:**
 npm run dev
 
 **Configuration**
@@ -46,6 +57,7 @@ Configuration files are located in the config directory. Update the .env file wi
 After completing the installation steps, you can run the application locally using:
 php artisan serve
 
+**File Structure**
 school.com/
 ├── app/
 │   ├── Console/
@@ -106,3 +118,6 @@ Open a Pull Request
 
 **License**
 This project is open-sourced software licensed under the MIT license.
+
+This README.md template provides a clear and structured overview of your project, including installation instructions, configuration details, file structure, and guidelines for contributing. Adjust any specific details as needed to better fit your project.
+
