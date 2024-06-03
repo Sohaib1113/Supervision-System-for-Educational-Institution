@@ -1,3 +1,12 @@
+![image](https://github.com/Sohaib1113/School-Management-AdminLTE-/assets/101351817/16d9f66a-3b8d-4afb-ab39-b7041f48ff72)
+![image](https://github.com/Sohaib1113/School-Management-AdminLTE-/assets/101351817/30dca27a-77a8-423b-bc5e-7a7ee50bc952)
+![image](https://github.com/Sohaib1113/School-Management-AdminLTE-/assets/101351817/ff3cc69a-2d9c-45b1-8cbf-db7775ef9a18)
+![image](https://github.com/Sohaib1113/School-Management-AdminLTE-/assets/101351817/a3ec6b42-69fa-407b-8d49-714a99539e4e)
+![image](https://github.com/Sohaib1113/School-Management-AdminLTE-/assets/101351817/87c6f3df-f3a1-4ef6-9874-1883c458c2d1)
+![image](https://github.com/Sohaib1113/School-Management-AdminLTE-/assets/101351817/313eb86c-2b7a-4ec1-a119-c44a397910af)
+
+
+
 <<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
