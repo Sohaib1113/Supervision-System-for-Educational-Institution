@@ -6,11 +6,11 @@
 ![image](https://github.com/Sohaib1113/School-Management-AdminLTE-/assets/101351817/313eb86c-2b7a-4ec1-a119-c44a397910af)
 
 
-# School Management System with AdminLTE
+# Supervision-System-for-Educational-Institution with AdminLTE
 
-![School Management System](https://github.com/Sohaib1113/School-Management-AdminLTE-/assets/101351817/16d9f66a-3b8d-4afb-ab39-b7041f48ff72)
+![Supervision-System-for-Educational-Institution](https://github.com/Sohaib1113/School-Management-AdminLTE-/assets/101351817/16d9f66a-3b8d-4afb-ab39-b7041f48ff72)
 
-This project is a web-based **School Management System** built using the **AdminLTE template**, providing a responsive and clean design for administrative interfaces. The application includes functionalities specific to managing a school's day-to-day activities, such as student, teacher, class, and schedule management.
+This project is a web-based **Supervision-System-for-Educational-Institution** built using the **AdminLTE template**, providing a responsive and clean design for administrative interfaces. The application includes functionalities specific to managing a school's day-to-day activities, such as student, teacher, class, and schedule management.
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ This project is a web-based **School Management System** built using the **Admin
 
 ## Overview
 
-The **School Management System** is designed to streamline and automate school operations, providing an easy-to-use interface for administrators. Key features include:
+The **Supervision-System-for-Educational-Institution** is designed to streamline and automate school operations, providing an easy-to-use interface for administrators. Key features include:
 
 - Student management
 - Teacher management
